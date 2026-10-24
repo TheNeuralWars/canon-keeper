@@ -1,0 +1,7 @@
+{
+  "world": "The Lantern Coast (sample world written for this demo)",
+  "facts": {
+    "Mira": {"eyes": {"value": "grey", "source": "ch01:3"}, "age": {"value": "17", "source": "ch01:4"}, "home": {"value": "Saltmarsh", "source": "ch01:5"}},
+    "Orrin": {"status": {"value": "dead", "source": "ch02:9"}, "mentor": {"value": "Tavi", "source": "ch02:2"}}
+  }
+}
