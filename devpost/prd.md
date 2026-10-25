@@ -1,6 +1,6 @@
 ---
 doc: prd
-status: draft
+status: approved
 ---
 # Canon Keeper — Product Requirements
 A continuity checker for solo serial-fiction writers. Source: `scope.md > The Unique Kernel`, `scope.md > The Core Loop`.

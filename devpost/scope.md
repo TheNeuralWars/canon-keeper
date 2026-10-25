@@ -1,6 +1,6 @@
 ---
 doc: scope
-status: draft
+status: approved
 ---
 <!-- DRAFT written by Nico's agent from Nico's known goals. Nico: read, then change status to approved. -->
 # Canon Keeper
